@@ -1,0 +1,10 @@
+[
+  {
+    "token": "your-reseller-token-1",
+    "password": "securepassword1"
+  },
+  {
+    "token": "your-reseller-token-2",
+    "password": "securepassword2"
+  }
+]
